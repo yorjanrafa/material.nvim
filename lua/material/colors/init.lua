@@ -57,7 +57,7 @@ if vim.g.material_style == "darker" then
         colors.syntax.comments     = "#515151"
     end
 
-    colors.editor.bg        = "#2e232c"
+    colors.editor.bg        = "#282825"
     colors.editor.bg_alt    = "#1A1A1A"
     colors.editor.fg        = "#B0BEC5"
     colors.editor.fg_dark   = "#8C8B8B"
